@@ -20,5 +20,8 @@ DBSCAN (Density-Based Spatial Clustering of Applications with Noise) is a densit
 ## Contributing
 Contributions to improve the implementations or add new clustering algorithms are welcome! Please open an issue to discuss proposed changes or submit a pull request.
 
+## Contributors
+- Rakshith G [Github](https://github.com/Rakshithg6)
+
 ## License
 This project is licensed under the MIT License 
